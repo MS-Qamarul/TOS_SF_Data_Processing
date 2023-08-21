@@ -21,10 +21,13 @@ Run the first python file and select the Excel file you want to process
 Manual insert the relevant pivot tables in the Check sheet
 
 ### Step 3
-Manual edit the CSV tabs in the Excel file, upload the CSVs with Data Loader and paste all relevant info into the Mappings tab
+Manual edit the CSV sheets in the Excel file, upload the CSVs with Data Loader and paste all relevant info into the Mappings tab
 
 ### Step 4
 Save and close the Excel file, then run the second python file and select the same Excel file
 
 ### Step 5
-Manual edit the last CSV file, upload the CSV with Data Loader and you're done
+In the 4_Working sheet, change the Course Paper and insert the Seq Number accordingly
+
+### Step 6
+Manual edit the last 4_CSV sheet, upload the 4_CSV sheet with Data Loader and you're done

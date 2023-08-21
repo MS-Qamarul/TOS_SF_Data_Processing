@@ -18,7 +18,7 @@ pip install -r requirements.txt
 Run the first python file and select the Excel file you want to process
 
 ### Step 2
-Manual inser the relevant pivot tables in the Check sheet
+Manual insert the relevant pivot tables in the Check sheet
 
 ### Step 3
 Manual edit the CSV tabs in the Excel file, upload the CSVs with Data Loader and paste all relevant info into the Mappings tab

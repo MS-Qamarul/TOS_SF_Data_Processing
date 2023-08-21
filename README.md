@@ -1,5 +1,3 @@
-# TOS_SF_Data_Processing
-
 # Set-up and opening the file
 
 ### Step 1

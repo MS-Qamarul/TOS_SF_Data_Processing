@@ -24,7 +24,7 @@ Manual insert the relevant pivot tables in the Check sheet
 Manual edit the CSV tabs in the Excel file, upload the CSVs with Data Loader and paste all relevant info into the Mappings tab
 
 ### Step 4
-Run the second python file and select the same Excel file
+Save and close the Excel file, then run the second python file and select the same Excel file
 
 ### Step 5
 Manual edit the last CSV file, upload the CSV with Data Loader and you're done
